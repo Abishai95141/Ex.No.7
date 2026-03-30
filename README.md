@@ -1,8 +1,5 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-Got it — you want a **clean GitHub-ready README.md style report** (no special UI elements, just proper Markdown). Here it is 👇
-
----
 
 # Medication Reminder App using ChatGPT
 
